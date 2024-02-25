@@ -1,0 +1,73 @@
+-----------------------------------
+-----------------------------------
+
+# stage 1 design testing in python
+
+# start                                                                                  20240224
+# timeout
+# record time between sets
+# day count, total workout time, separate workout
+# some numbers has to be calculated immediately.
+
+-----------------------------------
+--database structure --- excel for now
+# password, encryption,
+#              # send email, verification code
+#              # user info
+# Storage, for
+# Table1: {index_id, username, email, encrypted_password}
+# Table2: daily leaderboard
+# Table3: monthly
+
+
+# Tabeli(optional name: encrypted_userid), Tablei(useri): {date, total_time, number, detail_set_data }
+
+# All user get their number, total time
+# prime user have access to their all historical training data and useless ai analysis
+
+
+google login, wechat login
+
+
+
+
+-----------------------------------
+# other pages to develop and test
+# reward system, points
+# user stat,
+# leaderboard, rank,
+
+# friends, chat, story, phone number
+# tips, news
+# payment methods
+
+-----------------------------------
+-----------------------------------
+Stage 2
+build on android and ios, web(optional)
+must be so much better than existing products
+
+
+
+-----------------------------------
+# Other topics
+# user integrity, counts,
+# database on blockchain?
+# daily notification
+
+
+# Other topics
+# name
+# mascot
+# funding
+# advertisement
+# Prime
+# share structure
+# agreements
+
+
+
+
+
+
+

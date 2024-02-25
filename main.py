@@ -8,11 +8,6 @@ def count_down_from(second):
         time.sleep(1)
         print(i,)
 
-
-
-
-
-
 print("-------------------------")
 print("LETS GOOOOOOOOOOOOOOOOO!")
 
