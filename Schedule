@@ -16,7 +16,7 @@
 #              # user info
 # Storage, for
 # Table1: {index_id, username, email, encrypted_password}
-# Table2: daily leaderboard
+# Table2: daily leaderboard {index_id, active_flag, number, total_time }
 # Table3: monthly
 
 
@@ -26,9 +26,7 @@
 # prime user have access to their all historical training data and useless ai analysis
 
 
-google login, wechat login
-
-
+google login, wechat login, link with instagram
 
 
 -----------------------------------
@@ -37,9 +35,12 @@ google login, wechat login
 # user stat,
 # leaderboard, rank,
 
-# friends, chat, story, phone number
+# friends, chat, story, phone number -> social,
 # tips, news
 # payment methods
+
+
+# Other home daily doable exercise， rope skipping, sit up, pull up
 
 -----------------------------------
 -----------------------------------
@@ -68,6 +69,6 @@ must be so much better than existing products
 
 
 
-
+# ?goal: sell it to facebook
 
 
